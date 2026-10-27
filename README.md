@@ -64,5 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Penneo is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://penneo.com/
+Penneo provides a secure digital signing platform that enables businesses to sign, collect, and verify documents electronically with cryptographic evidence. Their solution is eIDAS‑QTSP certified, offers REST APIs for integration, and stores all data within the EU, ensuring legal defensibility and compliance for industries such as finance, legal services, and real estate. Trusted by over 3,500 companies, Penneo delivers end‑to‑end digital signing, data collection, and identity verification.
+
+**Areas:** Company · Digital Signing · eIDAS · API · Compliance
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://penneo.com/)
+- [Documentation](https://penneo.com/penneo-api/)
+- [Getting started](https://penneo.com/free-trial/)
+- [API reference](https://penneo.com/penneo-api/)
+- [Pricing](https://penneo.com/pricing-sign-collect/)
+- [Support](https://www.support.penneo.com/hc/en-gb/)
+- [Blog](https://penneo.com/blog/)
+- [Terms of service](https://penneo.com/terms/)
+- [Privacy policy](https://penneo.com/privacy-policy/)
+- [GitHub](https://github.com/Penneo)
+
+**APIs profiled:** 5
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/penneo/](https://apis.io/providers/penneo/).
